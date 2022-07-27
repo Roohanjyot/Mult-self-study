@@ -5,11 +5,15 @@ This project will focus on enabling me to learn the functionality of Java in dep
 Build a new backend API in Java for the Week 9 project; Additionally, implement PostgreSQL to query your database.
 
 ## Technologies to Focus On
-- Java
+- Java 8 (the language)
+- Java Development Kit (JDK)
+- Java Run Time Environment (JRE)
+- IntelliJ IDEA
   
 
 ## What am I using to study?
 - [Java Language Fundamentals](https://app.pluralsight.com/paths/skill/java-language-fundamentals)
+  - This is a Java path from pluralsight that will teach the basics of the Java language and how to effectively work with Java. Some of the concepts  that will be mastered in this section include control flow in Java, object orientation and collections. By the end of these courses one will have the skillset to start writing their own Java applications.
 
 ## Objectives and tasks for the day
 ### Monday
